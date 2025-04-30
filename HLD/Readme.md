@@ -5,7 +5,6 @@ NOTLI is a state-of-the-art, highly scalable notification system designed to pro
 
 ## Core System Features
 
-- **Extreme Scalability**: Process and deliver 50,000+ notifications per second with consistent performance
 - **Multi-Channel Support**: Email-focused initially, with ready-to-implement architecture for SMS, push, and messaging platforms
 - **Developer-Friendly**: Frictionless onboarding with channel-specific API keys and comprehensive documentation
 - **Intelligent Prioritization**: Advanced algorithms ensure critical notifications are delivered first
